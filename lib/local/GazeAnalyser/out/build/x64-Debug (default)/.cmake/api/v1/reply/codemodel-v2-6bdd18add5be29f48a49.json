@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GazeAnalyser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GazeAnalyser-Debug-136b402a82ea3acd1420.json",
+					"name" : "GazeAnalyser",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/File Store/Blob Documents/Visual Studio 2019/Projects/FaceSegTest/lib/local/GazeAnalyser/out/build/x64-Debug (default)",
+		"source" : "D:/File Store/Blob Documents/Visual Studio 2019/Projects/FaceSegTest/lib/local/GazeAnalyser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,6 @@
+1) download and extract OpenFace_2.2.0_win_x64 into "$(SolutionDir)Supporting Files\Software\OpenFace_2.2.0_win_x64"
+2) copy openblas.dll, libomp.dll, flangrti.dll, flang.dll into the FaceSegTest directory along with the entire directory trees of \classifiers and \model from the OpenFace directory
+3) copy \model to the "$(SolutionDir)lib\local\LandmarkDetector" directory
+4) download or build OpenCV 4, and copy the following files into "$(SolutionDir)Supporting Files\Software\OpenCv" debug or release directories: 
+	opencv_videoio_ffmpeg411_64.dll, opencv_world411d.dll, opencv_world411d.pdb (debug)
+	opencv_videoio_ffmpeg411_64.dll, opencv_world411.dll, opencv_world411.pdb (release)
